@@ -1,0 +1,115 @@
+/* styles/style.css */
+
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body Styling */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Header */
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+  
+  /* Main Section Spacing */
+  main section {
+    background-color: white;
+    padding: 25px 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  /* Section Titles */
+  main h2 {
+    margin-bottom: 15px;
+    color: #2e7d32;
+  }
+  
+  /* Paragraphs */
+  main p {
+    margin-bottom: 15px;
+  }
+  
+  /* Unordered List */
+  main ul {
+    margin-left: 20px;
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  
+  main li {
+    margin-bottom: 10px;
+  }
+  
+  /* Blockquotes Styling */
+  blockquote {
+    font-style: italic;
+    background-color: #f1f8e9;
+    padding: 15px 20px;
+    border-left: 5px solid #8bc34a;
+    margin: 15px 0;
+    border-radius: 5px;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #555;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  h1 {
+    color: wheat;
+  }
+  
+   h2 {
+    color: #333;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #benefits ul {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  
+  blockquote {
+    font-style: italic;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-left: 5px solid #ccc;
+  }
+  
